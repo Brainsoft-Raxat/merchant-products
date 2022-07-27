@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fm_catalog date="2022-07-23 12:43">
+    <shop>
+        <merchant-id>A47tYuQMS62Rx9LrrE</merchant-id>
+        <offers>
+            <offer sku="41275">
+                <name>Лоферы MAGZA  245-510 BAYAN AYK</name>
+                <vendor>MAGZA</vendor>
+                <barcodes>
+                    <barcode>2000000006567</barcode>
+                </barcodes>
+                <pickup-options>
+                    <pickup-option id="PP1" />
+                </pickup-options>
+                <price>38080</price>
+            </offer>
+        </offers>
+    </shop>
+</fm_catalog>
