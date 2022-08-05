@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-08-02 14:38">
+	<shop>        
+		<name>Levita</name>
+		<company>ИП Levita Plus</company>
+		<categories>
+			<category id="80">Женская обувь</category>
+			<category id="81">Мужская обувь</category>
+			<category id="877">Ремни</category>
+			<category id="82">Сумки</category>
+			<category id="21" parentId="80">Балетки</category>
+			<category id="109" parentId="80">Босоножки</category>
+			<category id="177" parentId="80">Ботильоны</category>
+			<category id="121" parentId="80">Ботинки</category>
+			<category id="797" parentId="80">Ботиночки</category>
+			<category id="24" parentId="80">Кеды</category>
+			<category id="46" parentId="80">Кроссовки</category>
+			<category id="172" parentId="80">Лоферы</category>
+			<category id="213" parentId="80">Мокасины</category>
+			<category id="140" parentId="80">Мюли</category>
+			<category id="886" parentId="80">Полуботинки</category>
+			<category id="214" parentId="80">Сабо</category>
+			<category id="465" parentId="80">Сандалии</category>
+			<category id="209" parentId="80">Сапоги</category>
+			<category id="896" parentId="80">Слингбэки</category>
+			<category id="105" parentId="80">Слипоны</category>
+			<category id="41" parentId="80">Туфли</category>
+			<category id="836" parentId="80">Челси</category>
+			<category id="203" parentId="80">Шлепанцы</category>
+			<category id="211" parentId="80">Эспадрильи</category>
+			<category id="222" parentId="81">Ботинки</category>
+			<category id="795" parentId="81">Броги</category>
+			<category id="229" parentId="81">Кеды</category>
+			<category id="218" parentId="81">Кроссовки</category>
+			<category id="220" parentId="81">Лоферы</category>
+			<category id="231" parentId="81">Мокасины</category>
+			<category id="698" parentId="81">Полусапожки</category>
+			<category id="843" parentId="81">Сандалии</category>
+			<category id="410" parentId="81">Сапоги</category>
+			<category id="164" parentId="81">Туфли</category>
+			<category id="230" parentId="81">Шлепанцы</category>
+			<category id="1012" parentId="877">BALDININI</category>
+			<category id="878" parentId="877">MARIO BRUNI</category>
+			<category id="714" parentId="82">ANNA VIRGILI</category>
+			<category id="719" parentId="82">BALDININI</category>
+			<category id="707" parentId="82">CROMIA</category>
+			<category id="708" parentId="82">GILDA TONELLI</category>
+			<category id="729" parentId="82">GIOVANI FABIANI</category>
+			<category id="703" parentId="82">MARINA VOLPE</category>
+			<category id="1007" parentId="82">MARIO BRUNI</category>
+			<category id="712" parentId="82">MAXIMA</category>
+			<category id="705" parentId="82">ORLANDI VALENTINO</category>
+			<category id="701" parentId="82">RIPANI</category>
+			<category id="721" parentId="82">VIC MATIЁ</category>
+		</categories>
+
+		<offers>
+  <offer id="41275">
+    <name>Лоферы MAGZA  245-510 BAYAN AYK</name>
+    <vendor>MAGZA</vendor>
+    <typePrefix>Лоферы</typePrefix>
+    <category>Лоферы</category>
+    <categoryId>220</categoryId>
+    <model>510 61-39/124</model>
+    <picture>https://levita.kz/wp-content/uploads/2021/11/1307-1.jpg</picture>
+    <picture>https://levita.kz/wp-content/uploads/2021/11/1307-2.jpg</picture>
+    <picture>https://levita.kz/wp-content/uploads/2021/11/1307-3.jpg</picture>
+    <picture>https://levita.kz/wp-content/uploads/2021/11/1307-4.jpg</picture>
+    <price>38080</price>
+    <count>1</count>
+    <country_of_origin/>
+    <param name="Цвет">лимонный</param>
+    <param name="Размер">36</param>
+    <param name="Размер">37</param>
+    <param name="Размер">38</param>
+    <param name="Размер">39</param>
+    <param name="Размер">40</param>
+    <param name="Сезон">весна</param>
+    <param name="Материал"/>
+    <param name="Высота каблука"/>
+    <param name="Застёжка"/>
+    <weight>0.8</weight>
+    <dimensions>30/20/15</dimensions>
+  </offer>
+  <offer id="41277">
+    <name>Сапоги LUCAGUERRINI  NAGOYA NERO</name>
+    <vendor>LUCAGUERRINI</vendor>
+    <typePrefix>Сапоги</typePrefix>
+    <category>Сапоги</category>
+    <categoryId>410</categoryId>
+    <model>7593</model>
+    <picture>https://levita.kz/wp-content/uploads/2021/12/643-1-error-url.jpg</picture>
+    <picture>https://levita.kz/wp-content/uploads/2021/12/643-2-error-url.jpg</picture>
+    <price>134096</price>
+    <count>1</count>
+    <country_of_origin>Италия</country_of_origin>
+    <param name="Цвет">черный</param>
+    <param name="Размер">40</param>
+    <param name="Сезон">зима</param>
+    <param name="Материал">натуральная кожа</param>
+    <param name="Высота каблука"/>
+    <param name="Застёжка"/>
+    <weight>1.3</weight>
+    <dimensions>40/30/15</dimensions>
+  </offer>
+  <offer id="41281">
+    <name>Сапоги GIORGIO FABIANI  VITELLO NERO</name>
+    <vendor>GIORGIO FABIANI</vendor>
+    <typePrefix>Сапоги</typePrefix>
+    <category>Сапоги</category>
+    <categoryId>209</categoryId>
+    <model>O171063 VIT.NERO MONT</model>
+    <price>215865</price>
+    <count>1</count>
+    <country_of_origin>Италия</country_of_origin>
+    <param name="Цвет">черный</param>
+    <param name="Размер">38</param>
+    <param name="Сезон">зима</param>
+    <param name="Материал"/>
+    <param name="Высота каблука">5 см</param>
+    <param name="Застёжка"/>
+    <weight>1.3</weight>
+    <dimensions>55/30/15</dimensions>
+  </offer>
+  <offer id="41286">
+    <name>Туфли VALENTINO  18570 NAPPA NIDOV.V BLACK</name>
+    <vendor>VALENTINO</vendor>
+    <typePrefix>Туфли</typePrefix>
+    <category>Туфли</category>
+    <categoryId>164</categoryId>
+    <model>18570-NNV.V</model>
+    </picture>
+    <price>251681</price>
+    <count>1</count>
+    <country_of_origin>Италия</country_of_origin>
+    <param name="Цвет">черный</param>
+    <param name="Размер">39</param>
+    <param name="Размер">40.5</param>
+    <param name="Размер">42</param>
+    <param name="Размер">43</param>
+    <param name="Сезон">демисезон</param>
+    <param name="Материал">натуральная кожа</param>
+    <param name="Высота каблука"/>
+    <param name="Застёжка"/>
+    <weight>1</weight>
+    <dimensions>35/25/14</dimensions>
+  </offer>
+		</offers>
+	</shop>
+</yml_catalog>
